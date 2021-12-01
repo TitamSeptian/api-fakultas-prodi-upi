@@ -1,6 +1,7 @@
 ## Tentang API Public prodi & fakultas UPI
 
-Public API ini berisi informasi-informasi umum seperti atribut ataubun nama dari fakultas, kampus daerah, dan program studi yang ada di Universitas Pendidikan Indonesia, mulai jenjang s1 hingga s3
+Public API ini berisi informasi-informasi umum seperti atribut ataubun nama dari fakultas, kampus daerah, dan program studi yang ada di Universitas Pendidikan Indonesia, mulai jenjang s1 hingga s3<br>
+**Menggunakan Laravel**
 
 ## Cara menjalankan source code ini :mag_right:
 ``` bash
